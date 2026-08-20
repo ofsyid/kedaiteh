@@ -929,7 +929,7 @@ em {
 }
 
 .cart-items {
-  flex: 1;
+  flex: 0.5;
 
   overflow-y: auto;
 
