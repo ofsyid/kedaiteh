@@ -224,7 +224,7 @@ function checkout() {
 
 
     // Membuat daftar pesanan
-    let pesan = "Halo KEDAITEH! \n";
+    let pesan = "Halo kak! \n";
     pesan += "Saya ingin memesan:\n\n";
 
 
