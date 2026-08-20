@@ -224,7 +224,7 @@ function checkout() {
 
 
     // Membuat daftar pesanan
-    let pesan = "Halo TEAHORA! 🍵\n";
+    let pesan = "Halo KEDAITEH! \n";
     pesan += "Saya ingin memesan:\n\n";
 
 
@@ -253,7 +253,7 @@ function checkout() {
     pesan += `TOTAL: ${rupiah(total)}\n`;
     pesan += "━━━━━━━━━━━━━━━━━━\n\n";
 
-    pesan += "Mohon konfirmasi pesanan saya ya. Terima kasih! 🙏";
+    pesan += "Mohon konfirmasi pesanan saya ya. Terima kasih!";
 
 
     // Encode pesan agar aman dimasukkan ke URL
